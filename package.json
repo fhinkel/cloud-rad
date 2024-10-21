@@ -19,7 +19,7 @@
     "@googleapis/api-documenter": "~7.13.0",
     "@microsoft/api-extractor": "~7.40.0",
     "@microsoft/api-extractor-model": "<7.28.13",
-    "@rushstack/node-core-library": "^3.55.2",
+    "@rushstack/node-core-library": "^5.0.0",
     "ajv": "^8.17.1",
     "execa": "^7.0.0",
     "fs-extra": "^11.1.0",
