@@ -18,7 +18,7 @@
   "dependencies": {
     "@googleapis/api-documenter": "~7.13.0",
     "@microsoft/api-extractor": "~7.40.0",
-    "@microsoft/api-extractor-model": "<7.28.13",
+    "@microsoft/api-extractor-model": "<7.30.4",
     "@rushstack/node-core-library": "^3.55.2",
     "ajv": "^8.17.1",
     "execa": "^7.0.0",
